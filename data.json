@@ -1,0 +1,156 @@
+{
+
+"alldistrict":[
+    {"location":"Ariyalur",
+        "mobile":" 9499933828 ",
+        "phone":"04329-228709 "},
+
+     {"location":"Chengalpattu",
+         "mobile":" 7200606674 ",
+         "phone":"044-27427412 / 14"},
+
+     {"location":"Coimbatore",
+         "mobile":" 9499933870 ",
+         "phone":"0422-2301114"},
+
+  {"location":"Cuddalore",
+     "mobile":" 9384487038 ",
+     "phone":"04142-220700"},
+
+     {"location":"Dharmapuri",
+        "mobile":" 9360953737  ",
+        "phone":"04342-231500 / 231067"},
+
+  {"location":"Dindigul",
+     "mobile":" 8300342973  ",
+     "phone":"0451-2460320"},
+
+     {"location":"Erode",
+        "mobile":" 8056931110 ",
+        "phone":"0424-2260211 / 2251616"},
+    
+        {"location":"Kallakurichi",
+         "mobile":" 9499933834  ",
+         "phone":"04151-228801 / 220000"},
+
+ {"location":"Kancheepuram",
+     "mobile":" 9345440662   ",
+     "phone":"044-27237107 / 207"},
+
+ {"location":"Kanyakumari",
+     "mobile":"9154154598 ",
+     "phone":"04652-220122 / 231077"},
+ 
+     {"location":"Karur",
+     "mobile":"9498747637 ",
+     "phone":"04324-256306 / 257510"},
+
+     {"location":"Krishnagiri",
+        "mobile":"9486589038 ",
+        "phone":"04343-233021 / 22"},
+
+    {"location":"Madurai",
+         "mobile":"9597176061 ",
+         "phone":"0452-2530104 / 06 / 07"},
+
+     {"location":"Myladuthurai",
+         "mobile":"9344290579 ",
+         "phone":"04364-222588"},
+
+     {"location":"Nagapattinam",
+       "mobile":"8438669800",
+         "phone":"04365-252593 / 99"},
+
+         {"location":"Namakkal ",
+            "mobile":"8220402437",
+              "phone":"04286-281377"},
+
+        {"location":"Nilgris ",
+          "mobile":"9499933874",
+          "phone":"0423-2450034 / 35"},
+
+         {"location":"Perambalur",
+             "mobile":"9154155097",
+             "phone":"04328-1077"},
+
+     {"location":"Pudukottai",
+         "mobile":"7538884840",
+         "phone":"04322-222207"},
+
+    {"location":"Ramanathapuram",
+       "mobile":"9499933856",
+      "phone":"04567-230060"},
+
+      {"location":"Ranipet",
+        "mobile":"9489668833",
+       "phone":"04172-273188 / 166"},
+    
+       {"location":"Salem",
+        "mobile":"9154155097",
+       "phone":"0427-2452202 / 2450498"},
+
+       {"location":"Sivagangai",
+        "mobile":"9345467903",
+       "phone":"04575-246233"},
+       
+       {"location":"Tenkasi",
+        "mobile":"9443621240",
+       "phone":"04633-290548 / 281100"},
+
+       {"location":"Thanjavur ",
+        "mobile":"9345336838",
+       "phone":"04362-230121 / 264114"},
+
+       {"location":"Theni",
+        "mobile":"9499933869",
+       "phone":"04546-261093 / 291971"},
+
+       {"location":"Thirupathur",
+        "mobile":"9499933821",
+       "phone":"04179-222111 / 229008"},
+
+       
+       {"location":"Thiruvallur",
+        "mobile":"9444317862",
+       "phone":"044-27666746 / 27664177"},
+
+       {"location":"Thiruvanamalai",
+        "mobile":"8870700800",
+       "phone":"04175-222345"},
+
+       {"location":"Thiruvarur",
+        "mobile":"9154153673",
+       "phone":"04366-226623"},
+
+       {"location":"Thoothukudi",
+        "mobile":"9486454714",
+       "phone":"0461-2340101 / 717"},
+
+       {"location":"Tirunelveli",
+        "mobile":"9499933893",
+       "phone":"0462-2501012"},
+
+       {"location":"Tiruppur",
+        "mobile":"9384056209",
+       "phone":"0421-2971133 / 99"},
+
+       {"location":"Trichy",
+        "mobile":"9952387108",
+       "phone":"0431-2461240 / 243"},
+
+       {"location":"Vellore",
+        "mobile":"9154153692",
+       "phone":"0416-2226016/2227016"},
+       
+       {"location":"Villupuram",
+        "mobile":"7539905544",
+       "phone":"04146-223265"},
+       
+       {"location":"Virudunagar",
+        "mobile":"9384056210",
+       "phone":"04562-252094/95"}
+
+    ]
+
+
+}
