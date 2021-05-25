@@ -3,8 +3,6 @@ import React from 'react';
 import { useContentFul  } from '../hooks/useContentFul'
 import Card from './Card';
 
-
-
 const Home=()=>{
 
     const { data  }=useContentFul();
