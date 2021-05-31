@@ -6,9 +6,9 @@ const Footer=()=>{
     return(
  
             <>
-            <footer className='bg-dark1 h-35 w-full fixed bottom-0 inset-x-0  '>
-                <p className=' text-2xl text-white text-center'>
-                  <span className='text-base' >&copy;</span>  vesseltechnologies</p>
+            <footer className='bg-dark1 h-35 w-full '>
+                <p className=' text-1xl text-white text-center pt-2 '>
+                 <span className='text-base' > &copy; 2021</span> sparkbytes. All Rights Reserved.</p>
             </footer>
         </>
         

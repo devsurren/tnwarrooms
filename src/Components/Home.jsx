@@ -21,7 +21,7 @@ const Home=()=>{
     return(
         <>
         
-          <div className='my-2 py-4'>
+          <div className='min-h-screen my-2 py-4'>
             {loading ? <Loading/> : <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 p-4">
                     { uiData.map((each)=>{
                             return <Card key={each.id} place={each.place} mobile={each.mobile} phone={each.phone}  />
