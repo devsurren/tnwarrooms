@@ -30,11 +30,3 @@ export const useContentFul=()=>{
     return {data}
 }
 
-/*
-
-                         id:eachitem.sys.id,
-                        place:eachitem.fields.location,
-                        mobile:eachitem.fields.mobile,
-                        phone:eachitem.fields.phone
-
-*/
