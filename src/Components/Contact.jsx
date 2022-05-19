@@ -8,7 +8,7 @@ const Contact=()=>{
                      <h1 className=' border-red-300  text-6xl my-4 font-roboto capitalize'>contact us</h1>
                      <div className="w-1/2 bg-black h-10 rounded" ></div>
                      <h3 className='font-roboto font-extrabold text-2xl py-6 capitalize'>Email : </h3>
-                     <h4 className='font-roboto font-extrabold text-xl py-1'>computingwithsurren@gmail.com</h4>
+                     <h4 className='font-roboto font-extrabold text-xl py-1'>surendranuiux@gmail.com</h4>
                 </div>
         </div> 
         </>
